@@ -27,7 +27,7 @@ const apiRequest = async (endpoint, options = {}) => {
 
 // Fetch all districts
 export const fetchDistricts = async () => {
-  return apiRequest('/districts');
+  return apiRequest('/api/districts');
 };
 
 // Fetch performance data for a specific district
@@ -40,7 +40,7 @@ export const fetchDistrictPerformance = async (districtCode) => {
 
 // Detect district based on coordinates
 export const detectDistrictByLocation = async (latitude, longitude) => {
-  return apiRequest('/district/locate', {
+  return apiRequest('/api/district/locate', {
     method: 'POST',
     body: JSON.stringify({ latitude, longitude }),
   });
@@ -48,5 +48,5 @@ export const detectDistrictByLocation = async (latitude, longitude) => {
 
 // Health check
 export const checkApiHealth = async () => {
-  return apiRequest('/health');
+  return apiRequest('/api/health');
 };

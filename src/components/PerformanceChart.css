@@ -1,0 +1,128 @@
+.chart-container {
+  width: 100%;
+}
+
+.chart-legend {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 24px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.legend-color {
+  width: 16px;
+  height: 16px;
+  border-radius: 3px;
+}
+
+.legend-color.persondays {
+  background: var(--primary);
+}
+
+.legend-color.expenditure {
+  background: var(--secondary);
+}
+
+.chart {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  height: 240px;
+  padding: 20px 0;
+  border-bottom: 3px solid var(--border);
+  position: relative;
+  gap: 8px;
+}
+
+.chart-bar-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  max-width: 80px;
+}
+
+.chart-bars {
+  display: flex;
+  gap: 6px;
+  align-items: flex-end;
+  height: 180px;
+  margin-bottom: 12px;
+}
+
+.chart-bar {
+  width: 24px;
+  min-height: 8px;
+  border-radius: 4px 4px 0 0;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  position: relative;
+}
+
+.chart-bar:hover {
+  transform: translateY(-4px);
+  filter: brightness(1.1);
+}
+
+.chart-bar.persondays {
+  background: linear-gradient(to top, var(--primary), #0a0560);
+  box-shadow: 0 2px 8px rgba(6, 3, 141, 0.3);
+}
+
+.chart-bar.expenditure {
+  background: linear-gradient(to top, var(--secondary), #ff7700);
+  box-shadow: 0 2px 8px rgba(255, 153, 51, 0.3);
+}
+
+.chart-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-align: center;
+}
+
+.chart-empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--text-secondary);
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .chart {
+    height: 200px;
+    padding: 16px 0;
+    gap: 4px;
+  }
+  
+  .chart-bars {
+    height: 140px;
+    gap: 4px;
+  }
+  
+  .chart-bar {
+    width: 20px;
+  }
+  
+  .chart-label {
+    font-size: 11px;
+  }
+  
+  .legend-item {
+    font-size: 12px;
+  }
+  
+  .chart-bar-group {
+    max-width: 60px;
+  }
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "district_code": "3110",
+    "district_name": "MORADABAD",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 28.8386,
+    "longitude": 78.7733
+  },
+  {
+    "district_code": "3112",
+    "district_name": "SAHARANPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 29.968,
+    "longitude": 77.5552
+  },
+  {
+    "district_code": "3117",
+    "district_name": "BULANDSHAHR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 28.4041,
+    "longitude": 77.8498
+  },
+  {
+    "district_code": "3124",
+    "district_name": "BUDAUN",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3133",
+    "district_name": "RAE BARELI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3136",
+    "district_name": "KANPUR DEHAT",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3140",
+    "district_name": "LALITPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3142",
+    "district_name": "BANDA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3143",
+    "district_name": "FATEHPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3144",
+    "district_name": "PRATAPGARH",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3146",
+    "district_name": "BAHRAICH",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3147",
+    "district_name": "GONDA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3154",
+    "district_name": "GORAKHPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.7606,
+    "longitude": 83.3732
+  },
+  {
+    "district_code": "3157",
+    "district_name": "AZAMGARH",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3166",
+    "district_name": "HATHRAS",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3169",
+    "district_name": "AURAIYA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3178",
+    "district_name": "AMBEDKAR NAGAR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3184",
+    "district_name": "SAMBHAL",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3118",
+    "district_name": "ALIGARH",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 27.8974,
+    "longitude": 78.088
+  },
+  {
+    "district_code": "3121",
+    "district_name": "FIROZABAD",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3127",
+    "district_name": "SHAHJAHANPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3151",
+    "district_name": "SIDDHARTH NAGAR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3155",
+    "district_name": "DEORIA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3162",
+    "district_name": "MIRZAPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3165",
+    "district_name": "BAGHPAT",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3180",
+    "district_name": "KASHGANJ",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3109",
+    "district_name": "BIJNOR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3122",
+    "district_name": "ETAH",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3138",
+    "district_name": "JALAUN",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3148",
+    "district_name": "BARABANKI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3149",
+    "district_name": "AYODHYA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3150",
+    "district_name": "SULTANPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3158",
+    "district_name": "JAUNPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3159",
+    "district_name": "BALLIA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3167",
+    "district_name": "AMROHA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3171",
+    "district_name": "CHANDAULI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3172",
+    "district_name": "KUSHI NAGAR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3177",
+    "district_name": "CHITRAKOOT",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3182",
+    "district_name": "HAPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3126",
+    "district_name": "PILIBHIT",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3145",
+    "district_name": "PRAYAGRAJ",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3160",
+    "district_name": "GHAZIPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3168",
+    "district_name": "KANNAUJ",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3111",
+    "district_name": "RAMPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3128",
+    "district_name": "KHERI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3130",
+    "district_name": "HARDOI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3139",
+    "district_name": "JHANSI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3176",
+    "district_name": "SHRAVASTI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3179",
+    "district_name": "MAHOBA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3115",
+    "district_name": "MEERUT",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 28.9845,
+    "longitude": 77.7064
+  },
+  {
+    "district_code": "3125",
+    "district_name": "BAREILLY",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 28.367,
+    "longitude": 79.4304
+  },
+  {
+    "district_code": "3129",
+    "district_name": "SITAPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3132",
+    "district_name": "LUCKNOW",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3152",
+    "district_name": "MAHARAJGANJ",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3153",
+    "district_name": "BASTI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3174",
+    "district_name": "SANT KABEER NAGAR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3183",
+    "district_name": "SHAMLI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3131",
+    "district_name": "UNNAO",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3141",
+    "district_name": "HAMIRPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3135",
+    "district_name": "ETAWAH",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3161",
+    "district_name": "VARANASI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 25.3176,
+    "longitude": 83.0116
+  },
+  {
+    "district_code": "3137",
+    "district_name": "KANPUR NAGAR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.4499,
+    "longitude": 80.3319
+  },
+  {
+    "district_code": "3170",
+    "district_name": "KAUSHAMBI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3119",
+    "district_name": "MATHURA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3120",
+    "district_name": "AGRA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 27.1767,
+    "longitude": 78.0081
+  },
+  {
+    "district_code": "3173",
+    "district_name": "SANT RAVIDAS NAGAR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3114",
+    "district_name": "MUZAFFARNAGAR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 29.4727,
+    "longitude": 77.7085
+  },
+  {
+    "district_code": "3134",
+    "district_name": "FARRUKHABAD",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3123",
+    "district_name": "MAINPURI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3163",
+    "district_name": "SONBHADRA",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3181",
+    "district_name": "AMETHI",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3156",
+    "district_name": "MAU",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3175",
+    "district_name": "BALRAMPUR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "district_code": "3116",
+    "district_name": "GHAZIABAD",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 28.6692,
+    "longitude": 77.4538
+  },
+  {
+    "district_code": "3164",
+    "district_name": "GAUTAM BUDDHA NAGAR",
+    "state_name": "UTTAR PRADESH",
+    "state_code": 31,
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  }
+]

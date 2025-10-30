@@ -1,0 +1,218 @@
+.location-permission {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, var(--primary) 0%, var(--ashoka-blue) 100%);
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.location-permission::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    linear-gradient(90deg, var(--india-saffron) 0%, transparent 50%),
+    linear-gradient(180deg, transparent 50%, var(--india-green) 100%);
+  opacity: 0.05;
+}
+
+.location-card {
+  background: white;
+  border-radius: 12px;
+  padding: 40px;
+  max-width: 520px;
+  width: 100%;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  z-index: 1;
+  border-top: 4px solid var(--secondary);
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.location-header h2 {
+  font-size: 28px;
+  color: var(--primary);
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.location-header p {
+  font-size: 15px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 32px;
+  font-weight: 400;
+}
+
+.location-benefits {
+  margin-bottom: 30px;
+}
+
+.benefit-item {
+  background: var(--bg-light);
+  padding: 14px 18px;
+  margin: 10px 0;
+  border-radius: 6px;
+  font-size: 14px;
+  color: var(--text-primary);
+  font-weight: 500;
+  border-left: 3px solid var(--secondary);
+  text-align: left;
+  transition: all 0.2s ease;
+}
+
+.benefit-item:hover {
+  background: #fff8f0;
+  border-left-color: var(--primary);
+  transform: translateX(4px);
+}
+
+.location-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.detect-btn {
+  background: var(--primary);
+  color: white;
+  border: none;
+  padding: 14px 32px;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(6, 3, 141, 0.3);
+  width: 100%;
+}
+
+.detect-btn:hover:not(:disabled) {
+  background: var(--ashoka-blue);
+  box-shadow: 0 4px 12px rgba(6, 3, 141, 0.4);
+  transform: translateY(-2px);
+}
+
+.detect-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.skip-btn {
+  background: transparent;
+  color: var(--text-secondary);
+  border: 2px solid var(--border);
+  padding: 12px 32px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.skip-btn:hover:not(:disabled) {
+  border-color: var(--primary);
+  color: var(--primary);
+  background: var(--bg-light);
+}
+
+.skip-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.progress-message {
+  background: linear-gradient(135deg, #2196F3, #1976D2);
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  margin: 15px 0;
+  font-weight: 500;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.8; }
+}
+
+.error-message {
+  background: #ffebee;
+  color: #c62828;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 15px 0;
+  border-left: 4px solid #f44336;
+}
+
+.retry-btn {
+  background: #f44336;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background 0.3s ease;
+}
+
+.retry-btn:hover {
+  background: #d32f2f;
+}
+
+.privacy-note {
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-top: 24px;
+  padding: 14px;
+  background: var(--bg-light);
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+@media (max-width: 768px) {
+  .location-permission {
+    padding: 15px;
+  }
+  
+  .location-card {
+    padding: 30px 20px;
+  }
+  
+  .location-header h2 {
+    font-size: 24px;
+  }
+  
+  .benefit-item {
+    font-size: 15px;
+    padding: 12px;
+  }
+  
+  .detect-btn {
+    font-size: 16px;
+    padding: 14px 20px;
+  }
+}

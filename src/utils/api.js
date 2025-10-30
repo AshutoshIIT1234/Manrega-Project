@@ -35,7 +35,7 @@ export const fetchDistrictPerformance = async (districtCode) => {
   if (!districtCode) {
     throw new Error('District code is required');
   }
-  return apiRequest(`/district/${districtCode}`);
+  return apiRequest(`/api/district/${districtCode}`);
 };
 
 // Detect district based on coordinates
